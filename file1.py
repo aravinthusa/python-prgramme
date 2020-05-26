@@ -3,13 +3,13 @@ program:
 #to find the radius of the circle
 
 r=float(input("input the radius of the circle:"))
-a=3.14*r*r
+a=(22*r*r)/7
 print("the area of circle with radius",r,"is:",a)
 
 output:
 
 input the radius of the circle:1.1
-the area of circle with radius 1.1 is: 3.7994000000000008
+the area of circle with radius 1.1 is: 3.8028571428571434
 
 program:
 
@@ -17,7 +17,8 @@ program:
 
 a=input("Input the Filename: ")
 b=a.split(".")
-print ("The extension of the file is : " ,b[-1])
+c=print ("The extension of the file is : " ,b[-1])
+
 
 output:
 
