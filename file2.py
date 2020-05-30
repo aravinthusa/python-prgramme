@@ -17,7 +17,7 @@ while(i<n):
  
  output:
  
- enter the number of sequence:15
+ enter the number of sequence:18
 0
 1
 1
